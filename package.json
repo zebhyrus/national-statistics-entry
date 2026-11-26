@@ -1,0 +1,1 @@
+{"description":"NusaStat: a national statistics site for Indonesia, built for the make.fun best national statistics site bounty.","license":"MIT","name":"national-statistics-entry","scripts":{"build":"node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
